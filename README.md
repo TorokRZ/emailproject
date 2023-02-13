@@ -1,6 +1,6 @@
 # emailproject
 
-This beginner level email project's function is to
+This beginner level project's function is to:
 - generate an email address
 - Determine the department
 - Generate a random password
